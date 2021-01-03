@@ -1,0 +1,421 @@
+<import_structure>
+	<community>
+		<name>eContents</name>
+		<description>eContents</description>
+		<community>
+			<name>General</name>
+				<collection><name>General</name></collection>
+		</community>
+		<community>
+			<name>Agricultural and Biological Sciences(all)</name>
+				<collection><name>Agricultural and Biological Sciences(all)</name></collection>
+				<collection><name>Agricultural and Biological Sciences (miscellaneous)</name></collection>
+				<collection><name>Agronomy and Crop Science</name></collection>
+				<collection><name>Animal Science and Zoology</name></collection>
+				<collection><name>Aquatic Science</name></collection>
+				<collection><name>Ecology, Evolution, Behavior and Systematics</name></collection>
+				<collection><name>Food Science</name></collection>
+				<collection><name>Forestry</name></collection>
+				<collection><name>Horticulture</name></collection>
+				<collection><name>Insect Science</name></collection>
+				<collection><name>Plant Science</name></collection>
+				<collection><name>Soil Science</name></collection>
+		</community>
+		<community>
+			<name>Arts and Humanities(all)</name>
+				<collection><name>Arts and Humanities(all)</name></collection>
+				<collection><name>Arts and Humanities (miscellaneous)</name></collection>
+				<collection><name>History</name></collection>
+				<collection><name>Language and Linguistics</name></collection>
+				<collection><name>Archaeology(Arts)</name></collection>
+				<collection><name>Classics</name></collection>
+				<collection><name>Conservation</name></collection>
+				<collection><name>History and Philosophy of Science</name></collection>
+				<collection><name>Literature and Literary Theory</name></collection>
+				<collection><name>Museology</name></collection>
+				<collection><name>Music</name></collection>
+				<collection><name>Philosophy</name></collection>
+				<collection><name>Religious studies</name></collection>
+				<collection><name>Visual Arts and Performing Arts</name></collection>
+		</community>
+		<community>
+			<name>Biochemistry,Genetics and Molecular Biology(all)</name>
+				<collection><name>Biochemistry,Genetics and Molecular Biology(all)</name></collection>
+				<collection><name>Biochemistry,Genetics and Molecular Biology (miscellaneous)</name></collection>
+				<collection><name>Ageing</name></collection>
+				<collection><name>Biochemistry</name></collection>
+				<collection><name>Biophysics</name></collection>
+				<collection><name>Biotechnology</name></collection>
+				<collection><name>Cancer Research</name></collection>
+				<collection><name>Cell Biology</name></collection>
+				<collection><name>Clinical Biochemistry</name></collection>
+				<collection><name>Developmental Biology</name></collection>
+				<collection><name>Endocrinology</name></collection>
+				<collection><name>Genetics</name></collection>
+				<collection><name>Molecular Biology</name></collection>
+				<collection><name>Molecular Medicine</name></collection>
+				<collection><name>Physiology</name></collection>
+				<collection><name>Structural Biology</name></collection>
+		</community>
+		<community>
+			<name>Business, Management and Accounting(all)</name>
+				<collection><name>Business, Management and Accounting(all)</name></collection>
+				<collection><name>Business, Management and Accounting (miscellaneous)</name></collection>
+				<collection><name>Accounting</name></collection>
+				<collection><name>Business and International Management</name></collection>
+				<collection><name>Management Information Systems</name></collection>
+				<collection><name>Management of Technology and Innovation</name></collection>
+				<collection><name>Marketing</name></collection>
+				<collection><name>Organizational Behavior and Human Resource Management</name></collection>
+				<collection><name>Strategy and Management</name></collection>
+				<collection><name>Tourism, Leisure and Hospitality Management</name></collection>
+				<collection><name>Industrial relations</name></collection>
+		</community>
+		<community>
+			<name>Chemical Engineering(all)</name>
+				<collection><name>Chemical Engineering(all)</name></collection>
+				<collection><name>Chemical Engineering (miscellaneous)</name></collection>
+				<collection><name>Bioengineering</name></collection>
+				<collection><name>Catalysis</name></collection>
+				<collection><name>Chemical Health and Safety</name></collection>
+				<collection><name>Colloid and Surface Chemistry</name></collection>
+				<collection><name>Filtration and Separation</name></collection>
+				<collection><name>Fluid Flow and Transfer Processes</name></collection>
+				<collection><name>Process Chemistry and Technology</name></collection>
+		</community>
+		<community>
+			<name>Chemistry(all)</name>
+				<collection><name>Chemistry(all)</name></collection>
+				<collection><name>Chemistry (miscellaneous)</name></collection>
+				<collection><name>Analytical Chemistry</name></collection>
+				<collection><name>Electrochemistry</name></collection>
+				<collection><name>Inorganic Chemistry</name></collection>
+				<collection><name>Organic Chemistry</name></collection>
+				<collection><name>Physical and Theoretical Chemistry</name></collection>
+				<collection><name>Spectroscopy</name></collection>
+		</community>
+		<community>
+			<name>Computer Science(all)</name>
+				<collection><name>Computer Science(all)</name></collection>
+				<collection><name>Computer Science (miscellaneous)</name></collection>
+				<collection><name>Artificial Intelligence</name></collection>
+				<collection><name>Computational Theory and Mathematics</name></collection>
+				<collection><name>Computer Graphics and Computer-Aided Design</name></collection>
+				<collection><name>Computer Networks and Communications</name></collection>
+				<collection><name>Computer Science Applications</name></collection>
+				<collection><name>Computer Vision and Pattern Recognition</name></collection>
+				<collection><name>Hardware and Architecture</name></collection>
+				<collection><name>Human-Computer Interaction</name></collection>
+				<collection><name>Information Systems</name></collection>
+				<collection><name>Signal Processing</name></collection>
+				<collection><name>Software</name></collection>
+		</community>
+		<community>
+			<name>Decision Sciences(all)</name>
+				<collection><name>Decision Sciences(all)</name></collection>
+				<collection><name>Decision Sciences (miscellaneous)</name></collection>
+				<collection><name>Information Systems and Management</name></collection>
+				<collection><name>Management Science and Operations Research</name></collection>
+				<collection><name>Statistics, Probability and Uncertainty</name></collection>
+		</community>
+		<community>
+			<name>Earth and Planetary Sciences(all)</name>
+				<collection><name>Earth and Planetary Sciences(all)</name></collection>
+				<collection><name>Earth and Planetary Sciences (miscellaneous)</name></collection>
+				<collection><name>Atmospheric Science</name></collection>
+				<collection><name>Computers in Earth Sciences</name></collection>
+				<collection><name>Earth-Surface Processes</name></collection>
+				<collection><name>Economic Geology</name></collection>
+				<collection><name>Geochemistry and Petrology</name></collection>
+				<collection><name>Geology</name></collection>
+				<collection><name>Geophysics</name></collection>
+				<collection><name>Geotechnical Engineering and Engineering Geology</name></collection>
+				<collection><name>Oceanography</name></collection>
+				<collection><name>Palaeontology</name></collection>
+				<collection><name>Space and Planetary Science</name></collection>
+				<collection><name>Stratigraphy</name></collection>
+		</community>
+		<community>
+			<name>Economics, Econometrics and Finance(all)</name>
+				<collection><name>Economics, Econometrics and Finance(all)</name></collection>
+				<collection><name>Economics, Econometrics and Finance (miscellaneous)</name></collection>
+				<collection><name>Economics and Econometrics</name></collection>
+				<collection><name>Finance</name></collection>
+		</community>
+		<community>
+			<name>Energy(all)</name>
+				<collection><name>Energy(all)</name></collection>
+				<collection><name>Energy (miscellaneous)</name></collection>
+				<collection><name>Energy Engineering and Power Technology</name></collection>
+				<collection><name>Fuel Technology</name></collection>
+				<collection><name>Nuclear Energy and Engineering</name></collection>
+				<collection><name>Renewable Energy, Sustainability and the Environment</name></collection>
+		</community>
+		<community>
+			<name>Engineering(all)</name>
+				<collection><name>Engineering(all)</name></collection>
+				<collection><name>Engineering (miscellaneous)</name></collection>
+				<collection><name>Aerospace Engineering</name></collection>
+				<collection><name>Automotive Engineering</name></collection>
+				<collection><name>Biomedical Engineering</name></collection>
+				<collection><name>Civil and Structural Engineering</name></collection>
+				<collection><name>Computational Mechanics</name></collection>
+				<collection><name>Control and Systems Engineering</name></collection>
+				<collection><name>Electrical and Electronic Engineering</name></collection>
+				<collection><name>Industrial and Manufacturing Engineering</name></collection>
+				<collection><name>Mechanical Engineering</name></collection>
+				<collection><name>Mechanics of Materials</name></collection>
+				<collection><name>Ocean Engineering</name></collection>
+				<collection><name>Safety, Risk, Reliability and Quality</name></collection>
+				<collection><name>Media Technology</name></collection>
+				<collection><name>Building and Construction</name></collection>
+				<collection><name>Architecture</name></collection>
+		</community>
+		<community>
+			<name>Environmental Science(all)</name>
+				<collection><name>Environmental Science(all)</name></collection>
+				<collection><name>Environmental Science (miscellaneous)</name></collection>
+				<collection><name>Ecological Modelling</name></collection>
+				<collection><name>Ecology</name></collection>
+				<collection><name>Environmental Chemistry</name></collection>
+				<collection><name>Environmental Engineering</name></collection>
+				<collection><name>Global and Planetary Change</name></collection>
+				<collection><name>Health, Toxicology and Mutagenesis</name></collection>
+				<collection><name>Management, Monitoring, Policy and Law</name></collection>
+				<collection><name>Nature and Landscape Conservation</name></collection>
+				<collection><name>Pollution</name></collection>
+				<collection><name>Waste Management and Disposal</name></collection>
+				<collection><name>Water Science and Technology</name></collection>
+		</community>
+		<community>
+			<name>Immunology and Microbiology(all)</name>
+				<collection><name>Immunology and Microbiology(all)</name></collection>
+				<collection><name>Immunology and Microbiology (miscellaneous)</name></collection>
+				<collection><name>Applied Microbiology and Biotechnology</name></collection>
+				<collection><name>Immunology</name></collection>
+				<collection><name>Microbiology</name></collection>
+				<collection><name>Parasitology</name></collection>
+				<collection><name>Virology</name></collection>
+		</community>
+		<community>
+			<name>Materials Science(all)</name>
+				<collection><name>Materials Science(all)</name></collection>
+				<collection><name>Materials Science (miscellaneous)</name></collection>
+				<collection><name>Biomaterials</name></collection>
+				<collection><name>Ceramics and Composites</name></collection>
+				<collection><name>Electronic, Optical and Magnetic Materials</name></collection>
+				<collection><name>Materials Chemistry</name></collection>
+				<collection><name>Metals and Alloys</name></collection>
+				<collection><name>Polymers and Plastics</name></collection>
+				<collection><name>Surfaces, Coatings and Films</name></collection>
+		</community>
+		<community>
+			<name>Mathematics(all)</name>
+				<collection><name>Mathematics(all)</name></collection>
+				<collection><name>Mathematics (miscellaneous)</name></collection>
+				<collection><name>Algebra and Number Theory</name></collection>
+				<collection><name>Analysis</name></collection>
+				<collection><name>Applied Mathematics</name></collection>
+				<collection><name>Computational Mathematics</name></collection>
+				<collection><name>Control and Optimization</name></collection>
+				<collection><name>Discrete Mathematics and Combinatorics</name></collection>
+				<collection><name>Geometry and Topology</name></collection>
+				<collection><name>Logic</name></collection>
+				<collection><name>Mathematical Physics</name></collection>
+				<collection><name>Modelling and Simulation</name></collection>
+				<collection><name>Numerical Analysis</name></collection>
+				<collection><name>Statistics and Probability</name></collection>
+				<collection><name>Theoretical Computer Science</name></collection>
+		</community>
+		<community>
+			<name>Medicine(all)</name>
+				<collection><name>Medicine(all)</name></collection>
+				<collection><name>Medicine (miscellaneous)</name></collection>
+				<collection><name>Anatomy</name></collection>
+				<collection><name>Anesthesiology and Pain Medicine</name></collection>
+				<collection><name>Biochemistry, medical</name></collection>
+				<collection><name>Cardiology and Cardiovascular Medicine</name></collection>
+				<collection><name>Critical Care and Intensive Care Medicine</name></collection>
+				<collection><name>Complementary and alternative medicine</name></collection>
+				<collection><name>Dermatology</name></collection>
+				<collection><name>Drug guides</name></collection>
+				<collection><name>Embryology</name></collection>
+				<collection><name>Emergency Medicine</name></collection>
+				<collection><name>Endocrinology, Diabetes and Metabolism</name></collection>
+				<collection><name>Epidemiology</name></collection>
+				<collection><name>Family Practice</name></collection>
+				<collection><name>Gastroenterology</name></collection>
+				<collection><name>Genetics(clinical)</name></collection>
+				<collection><name>Geriatrics and Gerontology</name></collection>
+				<collection><name>Health Informatics</name></collection>
+				<collection><name>Health Policy</name></collection>
+				<collection><name>Hematology</name></collection>
+				<collection><name>Hepatology</name></collection>
+				<collection><name>Histology</name></collection>
+				<collection><name>Immunology and Allergy</name></collection>
+				<collection><name>Internal Medicine</name></collection>
+				<collection><name>Infectious Diseases</name></collection>
+				<collection><name>Microbiology (medical)</name></collection>
+				<collection><name>Nephrology</name></collection>
+				<collection><name>Clinical Neurology</name></collection>
+				<collection><name>Obstetrics and Gynaecology</name></collection>
+				<collection><name>Oncology</name></collection>
+				<collection><name>Ophthalmology</name></collection>
+				<collection><name>Orthopedics and Sports Medicine</name></collection>
+				<collection><name>Otorhinolaryngology</name></collection>
+				<collection><name>Pathology and Forensic Medicine</name></collection>
+				<collection><name>Pediatrics, Perinatology, and Child Health</name></collection>
+				<collection><name>Pharmacology (medical)</name></collection>
+				<collection><name>Physiology (medical)</name></collection>
+				<collection><name>Psychiatry and Mental health</name></collection>
+				<collection><name>Public Health, Environmental and Occupational Health</name></collection>
+				<collection><name>Pulmonary and Respiratory Medicine</name></collection>
+				<collection><name>Radiology Nuclear Medicine and imaging</name></collection>
+				<collection><name>Rehabilitation</name></collection>
+				<collection><name>Reproductive Medicine</name></collection>
+				<collection><name>Reviews and References, Medical</name></collection>
+				<collection><name>Rheumatology</name></collection>
+				<collection><name>Surgery</name></collection>
+				<collection><name>Transplantation</name></collection>
+				<collection><name>Urology</name></collection>
+		</community>
+		<community>
+			<name>Neuroscience(all)</name>
+				<collection><name>Neuroscience(all)</name></collection>
+				<collection><name>Neuroscience (miscellaneous)</name></collection>
+				<collection><name>Behavioral Neuroscience</name></collection>
+				<collection><name>Biological Psychiatry</name></collection>
+				<collection><name>Cellular and Molecular Neuroscience</name></collection>
+				<collection><name>Cognitive Neuroscience</name></collection>
+				<collection><name>Developmental Neuroscience</name></collection>
+				<collection><name>Endocrine and Autonomic Systems</name></collection>
+				<collection><name>Neurology</name></collection>
+				<collection><name>Sensory Systems</name></collection>
+		</community>
+		<community>
+			<name>Nursing(all)</name>
+				<collection><name>Nursing(all)</name></collection>
+				<collection><name>Nursing (miscellaneous)</name></collection>
+				<collection><name>Advanced and Specialised Nursing</name></collection>
+				<collection><name>Assessment and Diagnosis</name></collection>
+				<collection><name>Care Planning</name></collection>
+				<collection><name>Community and Home Care</name></collection>
+				<collection><name>Critical Care</name></collection>
+				<collection><name>Emergency</name></collection>
+				<collection><name>Fundamentals and skills</name></collection>
+				<collection><name>Gerontology</name></collection>
+				<collection><name>Issues, ethics and legal aspects</name></collection>
+				<collection><name>Leadership and Management</name></collection>
+				<collection><name>LPN and LVN</name></collection>
+				<collection><name>Maternity and Midwifery</name></collection>
+				<collection><name>Medical Surgical</name></collection>
+				<collection><name>Nurse Assisting</name></collection>
+				<collection><name>Nutrition and Dietetics</name></collection>
+				<collection><name>Oncology(nursing)</name></collection>
+				<collection><name>Pathophysiology</name></collection>
+				<collection><name>Pediatrics</name></collection>
+				<collection><name>Pharmacology (nursing)</name></collection>
+				<collection><name>Phychiatric Mental Health</name></collection>
+				<collection><name>Research and Theory</name></collection>
+				<collection><name>Review and Exam Preparation</name></collection>
+		</community>
+		<community>
+			<name>Pharmacology, Toxicology and Pharmaceutics(all)</name>
+				<collection><name>Pharmacology, Toxicology and Pharmaceutics(all)</name></collection>
+				<collection><name>Pharmacology, Toxicology and Pharmaceutics (miscellaneous)</name></collection>
+				<collection><name>Drug Discovery</name></collection>
+				<collection><name>Pharmaceutical Science</name></collection>
+				<collection><name>Pharmacology</name></collection>
+				<collection><name>Toxicology</name></collection>
+		</community>
+		<community>
+			<name>Physics and Astronomy(all)</name>
+				<collection><name>Physics and Astronomy(all)</name></collection>
+				<collection><name>Physics and Astronomy (miscellaneous)</name></collection>
+				<collection><name>Acoustics and Ultrasonics</name></collection>
+				<collection><name>Astronomy and Astrophysics</name></collection>
+				<collection><name>Condensed Matter Physics</name></collection>
+				<collection><name>Instrumentation</name></collection>
+				<collection><name>Nuclear and High Energy Physics</name></collection>
+				<collection><name>Atomic and Molecular Physics, and Optics</name></collection>
+				<collection><name>Radiation</name></collection>
+				<collection><name>Statistical and Nonlinear Physics</name></collection>
+				<collection><name>Surfaces and Interfaces</name></collection>
+		</community>
+		<community>
+			<name>Psychology(all)</name>
+				<collection><name>Psychology(all)</name></collection>
+				<collection><name>Psychology (miscellaneous)</name></collection>
+				<collection><name>Applied Psychology</name></collection>
+				<collection><name>Clinical Psychology</name></collection>
+				<collection><name>Developmental and Educational Psychology</name></collection>
+				<collection><name>Experimental and Cognitive Psychology</name></collection>
+				<collection><name>Neuropsychology and Physiological Psychology</name></collection>
+				<collection><name>Social Psychology</name></collection>
+		</community>
+		<community>
+			<name>Social Sciences(all)</name>
+				<collection><name>Social Sciences(all)</name></collection>
+				<collection><name>Social Sciences (miscellaneous)</name></collection>
+				<collection><name>Archaeology</name></collection>
+				<collection><name>Development</name></collection>
+				<collection><name>Education</name></collection>
+				<collection><name>Geography, Planning and Development</name></collection>
+				<collection><name>Health(social science)</name></collection>
+				<collection><name>Human Factors and Ergonomics</name></collection>
+				<collection><name>Law</name></collection>
+				<collection><name>Library and Information Sciences</name></collection>
+				<collection><name>Linguistics and Language</name></collection>
+				<collection><name>Safety Research</name></collection>
+				<collection><name>Sociology and Political Science</name></collection>
+				<collection><name>Transportation</name></collection>
+				<collection><name>Anthropology</name></collection>
+				<collection><name>Communication</name></collection>
+				<collection><name>Cultural Studies</name></collection>
+				<collection><name>Demography</name></collection>
+				<collection><name>Gender Studies</name></collection>
+				<collection><name>Life-span and Life-course Studies</name></collection>
+				<collection><name>Political Science and International Relations</name></collection>
+				<collection><name>Public Administration</name></collection>
+				<collection><name>Urban Studies</name></collection>
+		</community>
+		<community>
+			<name>veterinary(all)</name>
+				<collection><name>veterinary(all)</name></collection>
+				<collection><name>veterinary (miscalleneous)</name></collection>
+				<collection><name>Equine</name></collection>
+				<collection><name>Food Animals</name></collection>
+				<collection><name>Small Animals</name></collection>
+		</community>
+		<community>
+			<name>Dentistry(all)</name>
+				<collection><name>Dentistry(all)</name></collection>
+				<collection><name>Dentistry (miscellaneous)</name></collection>
+				<collection><name>Dental Assisting</name></collection>
+				<collection><name>Dental Hygiene</name></collection>
+				<collection><name>Oral Surgery</name></collection>
+				<collection><name>Orthodontics</name></collection>
+				<collection><name>Periodontics</name></collection>
+		</community>
+		<community>
+			<name>Health Professions(all)</name>
+				<collection><name>Health Professions(all)</name></collection>
+				<collection><name>Health Professions (miscellaneous)</name></collection>
+				<collection><name>Chiropractics</name></collection>
+				<collection><name>Complementary and Manual Therapy</name></collection>
+				<collection><name>Emergency Medical Services</name></collection>
+				<collection><name>Health Information Management</name></collection>
+				<collection><name>Medical Assisting and Transcription</name></collection>
+				<collection><name>Medical Laboratory Technology</name></collection>
+				<collection><name>Medical Terminology</name></collection>
+				<collection><name>Occupational Therapy</name></collection>
+				<collection><name>Optometry</name></collection>
+				<collection><name>Pharmacy</name></collection>
+				<collection><name>Physical Therapy, Sports Therapy and Rehabilitation</name></collection>
+				<collection><name>Podiatry</name></collection>
+				<collection><name>Radiological and Ultrasound Technology</name></collection>
+				<collection><name>Respiratory Care</name></collection>
+				<collection><name>Speech and Hearing</name></collection>
+		</community>
+	</community>
+</import_structure>

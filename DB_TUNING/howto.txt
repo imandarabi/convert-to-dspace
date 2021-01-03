@@ -1,0 +1,4 @@
+#!/bin/sh
+
+apt-get install pgtune
+pgtune -i /etc/postgresql/9.3/main/postgresql.conf

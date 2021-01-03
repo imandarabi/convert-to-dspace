@@ -1,0 +1,13 @@
+
+import list of community and collection from XML file:
+       /dspace/bin/dspace structure-builder -f ./collection-input-for-dspace.xml -o collection-output-from-dspace.xml -e iman.darabi@gmail.com
+
+howto delete list of items from mapfile.txt:
+      /dspace/bin/dspace import --delete --mapfile=/home/mapfile.txt  --eperson=iman.darabi@gmail.com
+
+
+
+ ./shell-import-1-1100000.sh  | grep "/storage" | grep "/contents" | cut -d ":" -f 2 | cut -d '/' -f 1-6 >> my-mapfile.txt &
+
+howto 
+      curl "http://localhost:8080/solr/search/select/?q=withdrawn:false&rows=0"
